@@ -43,7 +43,7 @@ Welcome to my *Library Management System* 🎓 — a command-line Python project
 
 Here’s a demo of the working project:
 
-![Demo]("https://github.com/user-attachments/assets/f37c9311-88e7-446c-918c-6b78b0b304a9")
+![Demo](https://github.com/user-attachments/assets/77614ed6-2903-42e2-a9d4-fdc48d425164)
 
 ---
 
